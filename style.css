@@ -1,0 +1,31 @@
+
+body{
+    background-color: #DEE2E6;
+}
+.bank-name{
+    color: #DC3545;
+}
+.login-section{
+    background-color: #A6E9D5;
+}
+
+/* banking site */
+.deposite{
+    background-color: #EA868F;
+}
+.withdraw{
+    background-color: #FD9843;
+
+}
+.balance{
+    background-color: #8C68CD;
+}
+.money-deposit{
+    background-color: #20C997;
+}
+.money-withdraw{
+    background-color: #DE5C9D;
+}
+.width-money{
+    width: 40%;
+}
